@@ -73,13 +73,21 @@
 
 ### 🔹 **Mini / Practice Projects**  
 
-- **ToDo App (React)**  
-  - Built a dynamic task management application.  
-  - Implemented CRUD operations and state management.  
+- **Doctor Dashboard System**  
+  - Developed a complete dashboard for managing doctors and patients.  
+  - Implemented features like appointment management, patient records, and dashboard analytics.  
 
-- **Shopping Cart App (React)**  
-  - Developed product listing and cart management system.  
-  - Implemented responsive design and cart functionality.  
+- **Goat Buy & Sell App**  
+  - Built a web application for buying and selling goats online.  
+  - Implemented product listing, pricing, and user interaction features.  
+
+- **Love Calculator App**  
+  - Created a fun web application to calculate love compatibility.  
+  - Used JavaScript logic with interactive UI design.  
+
+- **Contact Management System**  
+  - Developed a system to store, update, delete, and manage contacts.  
+  - Implemented full CRUD operations with a user-friendly interface.  
 
 ---
 
